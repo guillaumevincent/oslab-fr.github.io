@@ -1,3 +1,4 @@
 # oslab.fr
 
-repository for oslab.fr page
+dépôt de code pour le site [oslab.fr](http://oslab.fr/)
+
